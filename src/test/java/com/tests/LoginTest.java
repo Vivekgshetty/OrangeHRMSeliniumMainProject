@@ -24,7 +24,7 @@ public class LoginTest extends TestBase {
         adminPage.openAdmin();
         adminPage.clickAdd();
         String employeeName = "Thomas Kutty Benny";
-        String usernames = "Sagar1689";
+        String usernames = "Vivek1689";
         String passwords = "Jellyfish@123";
         String confirmPassword = "Jellyfish@123";
 
